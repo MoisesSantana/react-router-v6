@@ -5,6 +5,6 @@
 - Você pode acessar os exemplos pelas branchs
 - Para rodar a aplicação basta clonar o repositório depois seguir os passos abaixo:
   - `npm i`
-  - `npm start`
+  - `npm run dev`
 
 **⚠️ Importante lembrar que é necessário ter o node instalado em sua máquina ⚠️**
