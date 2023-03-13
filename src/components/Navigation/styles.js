@@ -6,4 +6,8 @@ export const StyledNavLink = styled(NavLink)`
   font-size: 1.2rem;
   color: #000000cc;
   cursor: pointer;
+
+  &.active {
+    color: #d400ff;
+  }
 `

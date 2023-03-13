@@ -5,8 +5,4 @@ export const ListContainer = styled.ul`
   display: flex;
   width: 100%;
   gap: 3rem;
-
-  .active {
-    color: #d400ff;
-  }
 `

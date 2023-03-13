@@ -1,10 +1,10 @@
 import { createBrowserRouter, createRoutesFromElements, Route } from 'react-router-dom';
 import { ErrorMessage } from '../components';
 import { RootLayout } from '../layout/RootLayout';
-import { Characters, charactersLoader } from '../page/Characters';
-import { Episodes, episodesLoader } from '../page/Episodes';
-import { Home } from '../page/Home';
-import { Locations, locationsLoader } from '../page/Locations';
+import { Characters, charactersLoader } from '../pages/Characters';
+import { Episodes, episodesLoader } from '../pages/Episodes';
+import { Home } from '../pages/Home';
+import { Locations, locationsLoader } from '../pages/Locations';
 
 export const router = createBrowserRouter(
   createRoutesFromElements(
